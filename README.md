@@ -39,7 +39,7 @@ O projeto foi desenvolvido com foco em:
 
 ## 🌐 Deploy
 
-🔗 (coloque aqui o link da Vercel depois)
+🔗 delicias-do-ryan.vercel.app
 
 ---
 
