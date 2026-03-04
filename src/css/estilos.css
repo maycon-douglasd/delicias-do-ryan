@@ -1,0 +1,225 @@
+.navbar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #e6e5e2;
+}
+
+.logo {
+    margin-bottom: 20px;
+}
+
+.logo img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+.menu {
+    display: flex;
+    gap: 20px;
+    font-size: 18px;
+}
+
+.menu li a {
+    color: #75625a;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: background-color 0.3s ease;
+}
+
+.menu li a:hover {
+    color: #5a98bb;
+}
+
+.home {
+    text-align: center;
+}
+
+.secao-baner {
+    width: 100%;
+    padding: 0 20px;
+}
+
+.secao-baner img {
+    width: 100%;
+    max-width: 1000px;
+    height: auto;
+    object-fit: cover;
+    border-radius: 10px;
+    margin: 50px auto 30px;
+    display: block;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.container {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.container h1 {
+    font-size: 32px;
+    color: #75625a;
+    margin-bottom: 20px;
+}
+
+.container h2 {
+    font-size: 25px;
+    color: #75625a;
+    margin-bottom: 20px;
+}
+
+.apresentacao img {
+    width: 90%;
+    max-width: 600px;
+    border-radius: 10px;
+    margin: 0 auto 30px;
+    display: block;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.container p {
+    font-size: 17px;
+    color: #380e1c;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.container-sabores {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #bee4fb;
+}
+
+.container-sabores h1 {
+    font-size: 30px;
+    color: #511626;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.container-sabores p {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 16px;
+    color: #380e1c;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.lista-sabores {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: justify;
+}
+
+.lista-sabores li {
+    font-size: 18px;
+    line-height: 1.5;
+    color: #380e1c;
+    width: 100%;
+    max-width: 500px;
+    margin-top: 20px;
+    
+}
+
+.lista-sabores li strong {
+    color: #511626;
+    font-weight: bold;
+}
+
+.container-sobre {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 20px;
+    background-color: #F5F5F5;
+}
+
+.container-sobre h1 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #511626;
+    margin-bottom: 20px;
+}
+
+.container-sobre img {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 10px;
+    margin: 0 auto 30px;
+    display: block;
+}
+
+.container-sobre p {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 16px;
+    color: #380e1c;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.contato {
+    text-align: center;
+    padding: 40px 20px;
+    background-color: #bee4fb;
+}
+
+.contato h1 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #511626;
+    margin-bottom: 20px;
+}
+
+.contato iframe {
+    width: 100%;
+    max-width: 700px;
+    height: 400px;
+    border: none;
+    border-radius: 10px;
+    margin: 0 auto;
+    display: block;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.contato p {
+    font-size: 16px;
+    color: #380e1c;
+    margin: 20px 0;
+}
+
+.redes-sociais h3 {
+    font-size: 23px;
+    color: #511626;
+    background-color: #e6e5e2;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 8px;
+    border-radius: 8px;
+}
+
+.icones a {
+    display: inline-block;
+    margin: 20px 10px;
+    transition: transform 0.3s ease;
+}
+
+.icones a:hover {
+    transform: scale(1.2);
+}
+
+.footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #f5f5f5;
+    color: #380e1c;
+    font-size: 14px;
+}
