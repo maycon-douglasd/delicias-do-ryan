@@ -45,7 +45,8 @@ O projeto foi desenvolvido com foco em:
 
 ## 📸 Preview
 
-(Depois você pode colocar imagem do projeto aqui)
+<img src="https://github.com/maycon-douglasd/delicias-do-ryan/blob/main/src/img/readme.png?raw=true" width="550px"/>
+
 
 ---
 
